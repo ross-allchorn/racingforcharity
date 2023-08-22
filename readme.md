@@ -1,6 +1,8 @@
+# Charity Endurance Racing - Proposal for Sponsorship
+
+### Pico Documentation:
 <p align="center">
   <a href="https://picocss.com/">
-    <img src=".github/logo.svg" width="64" height="64">
   </a>
 </p>
 

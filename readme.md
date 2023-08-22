@@ -1,3 +1,3 @@
 # Racing for Charity
 
-This is a test.
+A website to showcase the Naartjie endurance racing team.
